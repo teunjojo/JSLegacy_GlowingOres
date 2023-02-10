@@ -5,3 +5,8 @@ This addon makes it so that all ores glow in the dark.
 Make sure that you are using [OptiFine](https://optifine.net/home) and that you've set: `Options > Video Settings > Quality > Emissive textures` to `ON`.
 
 Feel free to give suggestions or feedback.
+
+## Images
+![Image](https://imgur.com/AXETP1X.png)
+![Image](https://imgur.com/JWYleM5.png)
+![Image](https://imgur.com/QTMLloO.png)
