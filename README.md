@@ -2,6 +2,8 @@
 
 [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/teunjojo/JSLegacy_GlowingOres)
 
+[![optifine](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/optifine_vector.svg)](https://optifine.net/home)
+
 This is an **addon** for the [John Smith Legacy](https://www.johnsmithlegacy.co.uk/)    
 This addon makes it so that all ores glow in the dark.
 
