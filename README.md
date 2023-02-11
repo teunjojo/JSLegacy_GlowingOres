@@ -13,6 +13,5 @@ Make sure that you are using [OptiFine](https://optifine.net/home) and that you'
 Feel free to give suggestions or feedback.
 
 ## Images
-![Image](https://imgur.com/AXETP1X.png)
-![Image](https://imgur.com/JWYleM5.png)
-![Image](https://imgur.com/QTMLloO.png)
+![Overview](https://cdn.teunjojo.com/overview.png)
+![InGame](https://cdn.teunjojo.com/ingame1.png)
